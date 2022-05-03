@@ -10,8 +10,6 @@ Hello, I'm João Gabriel 👋
 
 😄 He/Him
 
-📫 How to reach me: joaogabriel3102@gmail.com
-
 <div align="center" style="display: inline_block">
   <a href="https://github.com/G4burieru">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=G4burieru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
