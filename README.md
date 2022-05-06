@@ -13,7 +13,7 @@ Hello, I'm João Gabriel 👋
 <div align="center" style="display: inline_block">
   <a href="https://github.com/G4burieru">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=G4burieru&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4burieru&layout=compact&langs_count=7&theme=radical"/></a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4burieru&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
