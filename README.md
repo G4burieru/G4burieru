@@ -4,7 +4,7 @@ Hello, I'm João Gabriel 👋
 
 📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB)
 
-💻 C, C++
+💻 C, C++, Python
 
 🌎 Brazilian
 
