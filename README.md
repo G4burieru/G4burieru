@@ -15,6 +15,7 @@ Hello, I'm João Gabriel 👋
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G4burieru&theme=radical"/>
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G4burieru&theme=radical"/>
 </a>
+  <br><br><img src="https://komarev.com/ghpvc/?username=G4burieru&label=Profile%20views&color=ff6e96&style=flat-square" />
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Gaburieru-ROS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" />
@@ -32,8 +33,3 @@ Hello, I'm João Gabriel 👋
 <a href = "https://www.instagram.com/gabrieel3102/"><img width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/g4burieru/" target="_blank"><img width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<p align="center"><br>
-Come back later :wink:<br>
-<img src="https://komarev.com/ghpvc/?username=G4burieru&label=Profile%20views&color=ff6e96&style=flat" />
-</p>
